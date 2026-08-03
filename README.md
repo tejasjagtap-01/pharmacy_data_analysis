@@ -221,3 +221,45 @@ The cost gauge from the Financial Health dashboard shows $6.21M in total costs a
 | 🟡 **Medium** | 18% location performance spread | Audit bottom-performing locations for product mix, staffing, and competitive context |
 | 🟡 **Medium** | $138.95 basket value uncaptured | Launch structured cross-sell program targeting high-margin complementary categories |
 | 🟢 **Monitor** | 5.0% YoY organic growth | Protect this trajectory by not over-indexing on promotional volume 
+
+---
+
+## 8. Technical Architecture
+
+The analytical pipeline was built in three decoupled stages designed for performance and reproducibility:
+
+* **Stage 1 — Data Ingestion & Transformation (SQL):** Handled all raw data ingestion, structural cleaning, null handling, date field standardisation, and pharmacy ID normalisation. All filtering and schema decisions were made upstream before data entered the analysis layer.
+* **Stage 2 — Exploratory Data Analysis (Python & Pandas):** Handled exploratory data analysis including revenue distribution profiling, quarterly seasonality analysis, promo versus non-promo segmentation, and basket value calculations.
+* **Stage 3 — Business Intelligence & Reporting (Power BI):** Delivered two dashboard pages:
+  * **Pharmacy Performance Overview:** Features dynamic year and promo code filters.
+  * **Financial and Inventory Health Report:** Supports monthly drill-down capabilities.
+  * *DAX Measures:* All KPIs were implemented as custom DAX measures, including `Profit Margin %`, `Year-over-Year Growth`, and `Average Basket Value`.
+
+---
+
+## 9. About This Project
+
+This analysis was built as a response to a real-world data access problem.
+
+While researching entry-level Data Analyst roles, I approached 6 local medical stores in Pune requesting their sales data to build a real-world portfolio project. Every owner declined on data privacy grounds. One put it simply:
+
+> *"Bhaiya, sales ka data bohot private hota hai. Yeh main kisi ko nahi de sakta — not even my wife."*
+
+Rather than treating this as a dead end, I sourced a comparable pharmacy dataset from Kaggle and built the exact analytical infrastructure those store owners wouldn't let me build with their own data — then designed it to answer the exact questions a real pharmacy business owner would need answered daily.
+
+The goal was not just a portfolio piece. It was a business-ready analytical product.
+
+--
+
+## 10. ## 👤 Contact & Connect
+
+This end-to-end pipeline and analytical report was developed by **Tejas Jagtap**. 
+
+I am a **Data Analytics learner** focused on bridging the gap between robust data infrastructure and executive decision-making. I specialize in designing clean ETL architectures, authoring complex server-side analytical data models, and translating tracking metrics into high-impact interactive visual stories.
+
+* **Core Competencies:** Full-Stack Data Engineering, Database Modeling (SQL/PostgreSQL), Python Automation, UI/UX Dashboard Design (Power BI).
+* **📬 Let's Connect:** www.linkedin.com/in/tejasjagtap01 | [GitHub] https://github.com/tejasjagtap-01
+* |[Portfolio/Website:  https://mavenshowcase.com/project/57336
+
+## 📜 License
+This project is licensed under the MIT License - see the LICENSE file for details.

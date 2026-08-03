@@ -1,3 +1,6 @@
+<img width="1236" height="680" alt="gif1" src="https://github.com/user-attachments/assets/11614e73-500f-4422-80d3-c3de25d66e21" />
+
+
 # Pharmacy Chain Performance Intelligence Report
 
 ### Prepared by: Tejas Jagtap, Data Analyst  

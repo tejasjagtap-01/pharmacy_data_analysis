@@ -251,7 +251,7 @@ The goal was not just a portfolio piece. It was a business-ready analytical prod
 
 --
 
-## 10. ## 👤 Contact & Connect
+## 10. 👤 Contact & Connect
 
 This end-to-end pipeline and analytical report was developed by **Tejas Jagtap**. 
 

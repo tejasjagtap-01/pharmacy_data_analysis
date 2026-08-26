@@ -259,7 +259,7 @@ I am a **Data Analytics learner** focused on bridging the gap between robust dat
 
 * **Core Competencies:** Full-Stack Data Engineering, Database Modeling (SQL/PostgreSQL), Python Automation, UI/UX Dashboard Design (Power BI).
 * **📬 Let's Connect:** www.linkedin.com/in/tejasjagtap01 | [GitHub] https://github.com/tejasjagtap-01
-* |[Portfolio/Website:  https://mavenshowcase.com/project/57336
+* **Portfolio/Website**:  https://mavenshowcase.com/project/57336
 
 ## 📜 License
 This project is licensed under the MIT License - see the LICENSE file for details.

@@ -258,8 +258,9 @@ This end-to-end pipeline and analytical report was developed by **Tejas Jagtap**
 I am a **Data Analytics learner** focused on bridging the gap between robust data infrastructure and executive decision-making. I specialize in designing clean ETL architectures, authoring complex server-side analytical data models, and translating tracking metrics into high-impact interactive visual stories.
 
 * **Core Competencies:** Full-Stack Data Engineering, Database Modeling (SQL/PostgreSQL), Python Automation, UI/UX Dashboard Design (Power BI).
-* **📬 Let's Connect:** www.linkedin.com/in/tejasjagtap01 | [GitHub] https://github.com/tejasjagtap-01
-* **Portfolio/Website**:  https://mavenshowcase.com/project/57336
+* **📬 Let's Connect:** www.linkedin.com/in/tejasjagtap01
+* **GitHub** https://github.com/tejasjagtap-01
+* **Portfolio/Website**  https://mavenshowcase.com/project/57336
 
 ## 📜 License
 This project is licensed under the MIT License - see the LICENSE file for details.

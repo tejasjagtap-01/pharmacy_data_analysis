@@ -1,5 +1,10 @@
-<img width="1236" height="680" alt="gif1" src="https://github.com/user-attachments/assets/11614e73-500f-4422-80d3-c3de25d66e21" />
 
+
+https://github.com/user-attachments/assets/b0fe78fe-4d53-42dd-a205-04d24ad286e6
+
+
+
+---
 
 # Pharmacy Chain Performance Intelligence Report
 
